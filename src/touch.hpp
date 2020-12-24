@@ -7,4 +7,4 @@ struct touch
 private:
   unsigned int id_;
 };
-// Hello this is merge conflict
+#define THE_END_OF_THE_FILE
