@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "986dea61_e7c88d49",
+        "filename": "src/touch.hpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1018614
+      },
+      "writtenOn": "2020-12-24T14:40:24Z",
+      "side": 1,
+      "message": "type is incorrect",
+      "revId": "df3e076d5c1ab7a0af4403577eab48c82439ece5",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
