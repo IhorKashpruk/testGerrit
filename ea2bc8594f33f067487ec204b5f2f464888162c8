@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "42647709_339c8dd8",
+        "filename": "src/thread.hpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1018614
+      },
+      "writtenOn": "2020-12-24T13:40:24Z",
+      "side": 1,
+      "message": "type is incorrect",
+      "range": {
+        "startLine": 6,
+        "startChar": 2,
+        "endLine": 6,
+        "endChar": 10
+      },
+      "revId": "ea2bc8594f33f067487ec204b5f2f464888162c8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735"
+    }
+  ]
+}
