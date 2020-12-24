@@ -7,3 +7,4 @@ struct touch
 private:
   unsigned int id_;
 };
+#define THE_END_OF_THE_FILE
