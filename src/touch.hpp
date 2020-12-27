@@ -1,4 +1,5 @@
 #pragma once
+#include <iostream>
 
 #define MAX_TOUCH_ID 230
 
